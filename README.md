@@ -2,7 +2,7 @@
   <img src="./assets/readme_banner_final.svg" alt="Lester Banner" />
 </p>
 
-<h1 align="center">Nice to meet you, I’m Lester!</h1>
+<h1 align="center">Nice to meet you, I’m Lester! 😄</h1>
 <p align="center">
   <strong>Computer Engineer | Embedded & Firmware | Frontend | QA | Leadership</strong>
 </p>
