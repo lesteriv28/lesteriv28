@@ -40,6 +40,16 @@
 ## 📂 Featured Projects
 
 <p align="center">
+  <a href="https://github.com/lesteriv28/EnVision-Ease">
+    <img src="./assets/project_card_envision_ease.svg" width="720" alt="EnVision-Ease project card" />
+  </a>
+</p>
+
+<p align="center">
+  🎥 <a href="https://www.youtube.com/watch?v=k2iw7hXuoNE&feature=youtu.be">Watch Demo Video</a>
+</p>
+
+<p align="center">
   <a href="https://github.com/lesteriv28/Parking-Crashers">
     <img src="./assets/project_card_parking_crashers.svg" width="720" alt="Parking Crashers project card" />
   </a>
