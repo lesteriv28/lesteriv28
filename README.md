@@ -91,8 +91,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lesteriv28/lesteriv28/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
