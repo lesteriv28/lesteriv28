@@ -52,34 +52,18 @@
 
 ---
 
-## 🏆 Highlights & Focus
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded%20Systems-8B0000?logo=arm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firmware-DC143C?logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-000000?logo=react&logoColor=61DAFB" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesteriv28&layout=compact&title_color=DC143C&text_color=FFFFFF&bg_color=000000&hide_border=false" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/sfu_alas/?hl=en">
-    <img src="https://img.shields.io/badge/President%20·%20ALAS%202022--2024-DC143C?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://ca.linkedin.com/company/sfu-engineering-science-student-society">
-    <img src="https://img.shields.io/badge/Vice%20President%20Admin%20·%20ESSS-8B0000?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Team%20Leadership-000000?style=flat-square" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lesteriv28&theme=onedark&row=1&column=6&margin-w=15&margin-h=15&title=Commit,Issues,Stars,Followers,Repositories,PullRequest" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problem%20Solver-DC143C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Creativity-8B0000?style=flat-square" />
-  <img src="https://img.shields.io/badge/MMA%20Training-000000?logo=martialarts&logoColor=white" />
-  <img src="https://img.shields.io/badge/Professional%20Dancer-DC143C?logo=music&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lesteriv28&label=Profile%20Views&color=DC143C&style=flat" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lesteriv28&theme=radical" alt="Profile Summary" />
 </p>
 
 
