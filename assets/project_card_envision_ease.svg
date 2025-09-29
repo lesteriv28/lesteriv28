@@ -1,0 +1,30 @@
+
+<svg width="1000" height="240" viewBox="0 0 1000 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="100%" stop-color="#8B0000"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1000" height="240" rx="16" ry="16" fill="url(#cardBg)"/>
+  <rect x="0" y="0" width="1000" height="240" rx="16" ry="16" stroke="#DC143C" stroke-width="1.25" fill="none"/>
+  <g font-family="Segoe UI, Roboto, Ubuntu, 'Helvetica Neue', Arial, sans-serif">
+    <!-- Title -->
+    <text x="28" y="70" font-size="28" font-weight="700" fill="#FFFFFF">EnVision-Ease</text>
+    <!-- Subtitle / one-liner -->
+    <text x="28" y="105" font-size="18" fill="#AAAAAA">
+      Chest-mounted assistive navigation: real-time obstacle &amp; object detection with computer vision, LiDAR, and ultrasonics.
+    </text>
+    <text x="28" y="132" font-size="18" fill="#AAAAAA">
+      Haptic and audio feedback for indoor guidance.
+    </text>
+    <!-- Stack line -->
+    <text x="28" y="170" font-size="16" fill="#AAAAAA">
+      • Python  • OpenCV  • TensorFlow  • Raspberry Pi 5  • RPLIDAR  • Ultrasonic sensors  • Haptics (PCA9685)  • IQAudio DAC+
+    </text>
+    <!-- Standards / extras -->
+    <text x="28" y="198" font-size="14" fill="#888888">
+      ENSC 405/440 Capstone · On-device processing · Modular hardware · 8–10h battery · Sustainability &amp; safety focused
+    </text>
+  </g>
+</svg>
