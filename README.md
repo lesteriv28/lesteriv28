@@ -66,23 +66,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lesteriv28&theme=onedark&row=1&column=5&margin-w=12&margin-h=12&title=Commit,Issues,Stars,Repositories,PullRequest" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lesteriv28&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lesteriv28&theme=radical" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lesteriv28&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lesteriv28&show_icons=true&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF&bg_color=000000&hide_rank=true" />
 </p>
 
 ---
