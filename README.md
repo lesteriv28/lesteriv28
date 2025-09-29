@@ -1,6 +1,5 @@
-<h1 align="center">Nice to meet you, I’m Lester!</h1>
 <p align="center">
-  <strong>Computer Engineer | Embedded & Firmware | Frontend | QA | Leadership</strong>
+  <img src="./assets/readme_banner.svg" alt="Lester Banner" />
 </p>
 
 ---
@@ -10,6 +9,8 @@
 - ⚡ Experienced in **C/C++**, firmware, embedded systems, and **frontend development**  
 - ✅ Former **QA Lead**, ensuring scalable, high-quality solutions  
 - 🥋 Trains in **MMA** | 💃 Professional dancer — disciplines that sharpen creativity, resilience, and focus  
+
+<img src="./assets/section_divider_bottom.svg" alt="divider" />
 
 ---
 
@@ -25,29 +26,62 @@
   <img src="https://img.shields.io/badge/-Docker-DC143C?logo=docker&logoColor=white" />
 </p>
 
+<img src="./assets/section_divider_top.svg" alt="divider" />
+
 ---
 
 ## 📂 Featured Projects
 
-- 🔹 [**Simple C**](https://github.com/lesteriv28/simple-C)  
-  A compilation of quick Unix compatible C programs
+<p align="center">
+  <a href="https://github.com/lesteriv28/simple-C">
+    <img src="./assets/project_card_simple_c.svg" alt="Simple C project card" />
+  </a>
+</p>
 
-- 🔹 [**Data Structure Library**](https://github.com/lesteriv28/DSlibrary)  
-  Custom Data Structure library in C
+<p align="center">
+  <a href="https://github.com/lesteriv28/DSlibrary">
+    <img src="./assets/project_card_ds.svg" alt="DS Library project card" />
+  </a>
+</p>
 
-- 🔹 [**School Website**](https://github.com/lesteriv28/lesteriv28.github.io)  
-  A simple static web interface for a small elementary school. Using standard Html, CSS & JS with Bootstrap.
+<p align="center">
+  <a href="https://github.com/lesteriv28/lesteriv28.github.io">
+    <img src="./assets/project_card_school.svg" alt="School Website project card" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Highlights & Focus
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF&bg_color=000000" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded%20Systems-8B0000?logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firmware-DC143C?logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-000000?logo=react&logoColor=61DAFB" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&ring=DC143C&fire=DC143C&currStreakLabel=FFFFFF&sideNums=FFFFFF&background=000000&dates=AAAAAA" alt="GitHub Streak" />
+  <a href="https://www.instagram.com/sfu_alas/?hl=en">
+    <img src="https://img.shields.io/badge/President%20·%20ALAS%202022--2024-DC143C?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://ca.linkedin.com/company/sfu-engineering-science-student-society">
+    <img src="https://img.shields.io/badge/Vice%20President%20Admin%20·%20ESSS-8B0000?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Team%20Leadership-000000?style=flat-square" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problem%20Solver-DC143C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Creativity-8B0000?style=flat-square" />
+  <img src="https://img.shields.io/badge/MMA%20Training-000000?logo=martialarts&logoColor=white" />
+  <img src="https://img.shields.io/badge/Professional%20Dancer-DC143C?logo=music&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lesteriv28&label=Profile%20Views&color=DC143C&style=flat" />
+</p>
+
 
 ---
 
