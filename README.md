@@ -4,7 +4,7 @@
 
 <h1 align="center">Nice to meet you, I’m Lester! 😄</h1>
 <p align="center">
-  <strong>Computer Engineer | Embedded & Firmware | Frontend | QA | Leadership</strong>
+  <strong>Computer Engineer | Embedded & Firmware | Frontend | QA | UI/UX Design</strong>
 </p>
 <p align="center"><em>Now: building systems in C/C++ and shipping clean UIs; open to Embedded/Firmware & QA roles.</em></p>
 
