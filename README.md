@@ -15,7 +15,7 @@
 - ⚡ Experienced in **C/C++**, firmware, embedded systems, and **frontend development**  
 - ✅ Former **QA Lead**, ensuring scalable, high-quality solutions  
 - 🥋 Trains in **MMA** | 💃 Professional dancer — disciplines that sharpen creativity, resilience, and focus  
-- 🌎 Leadership: **President of ALAS (2022–2024)** · **VP Admin of ESSS**
+- 🌎 Leadership: **President of ALAS (2022–2024)** · **VP Admin of ESSS (2024-2025)**
 
 <img src="./assets/section_divider_bottom.svg" alt="divider" />
 
