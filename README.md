@@ -40,6 +40,12 @@
 ## 📂 Featured Projects
 
 <p align="center">
+  <a href="https://github.com/lesteriv28/Parking-Crashers">
+    <img src="./assets/project_card_parking_crashers.svg" width="720" alt="Parking Crashers project card" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/lesteriv28/simple-C">
     <img src="./assets/project_card_simple_c.svg" width="720" alt="Simple C project card" />
   </a>
