@@ -1,0 +1,37 @@
+name: Generate contribution snake
+
+on:
+  # Runs once a day (02:00 UTC).
+  schedule:
+    - cron: "0 2 * * *"
+  # Also run whenever you push to main 
+  push:
+    branches:
+      - main
+  # Allow manual runs from the Actions tab
+  workflow_dispatch: {}
+
+permissions:
+  contents: write   # required to push the generated SVG to the output branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
+        with:
+          # GitHub username
+          github_user_name: lesteriv28
+
+          # Where to write the generated file(s)
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output     # branch that will host the artifact
+          build_dir: dist           # the folder from the previous step
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
