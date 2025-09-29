@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme_banner.svg" alt="Lester Banner" />
+  <img src="./assets/readme_banner_final.svg" alt="Lester Banner" />
 </p>
 
 <h1 align="center">Nice to meet you, I’m Lester!</h1>
