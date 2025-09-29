@@ -1,0 +1,31 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="100%" stop-color="#DC143C"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF11"/>
+      <stop offset="100%" stop-color="#FFFFFF00"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#FFFFFF10" stroke-width="1"/>
+    </pattern>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="1200" height="280" rx="18" ry="18"/>
+    </clipPath>
+  </defs>
+  <rect width="1200" height="280" rx="18" ry="18" fill="url(#g1)"/>
+  <rect width="1200" height="280" fill="url(#grid)" clip-path="url(#clip)"/>
+  <rect width="1200" height="140" fill="url(#g2)" clip-path="url(#clip)"/>
+
+  <!-- Accent wave -->
+  <path d="M0,220 C200,260 420,210 620,230 C860,255 1010,200 1200,230 L1200,280 L0,280 Z" fill="#8B0000" opacity="0.35"/>
+
+  <!-- Text -->
+  <g font-family="Segoe UI, Roboto, Ubuntu, 'Helvetica Neue', Arial, sans-serif">
+    <text x="48" y="120" fill="#FFFFFF" font-size="44" font-weight="700">Lester Pino Barragan</text>
+    <text x="48" y="165" fill="#AAAAAA" font-size="20" font-weight="500">Computer Engineer · Embedded/Firmware · C/C++ · Frontend · QA Lead</text>
+    <text x="48" y="205" fill="#AAAAAA" font-size="16">MMA practitioner · Professional dancer</text>
+  </g>
+</svg>

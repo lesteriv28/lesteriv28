@@ -1,0 +1,10 @@
+<svg width="1200" height="80" viewBox="0 0 1200 80" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="botGrad" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#DC143C"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="80" fill="url(#botGrad)" opacity="0.12"/>
+  <path d="M0,0 C200,40 400,80 600,70 C800,60 1000,10 1200,40 L1200,80 L0,80 Z" fill="#DC143C"/>
+</svg>
