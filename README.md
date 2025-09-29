@@ -62,16 +62,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesteriv28&layout=compact&title_color=DC143C&text_color=FFFFFF&bg_color=000000&langs_count=6&hide=css,scss,html&exclude_repo=lesteriv28.github.io" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesteriv28&layout=compact&title_color=DC143C&text_color=FFFFFF&bg_color=000000&hide_border=false" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lesteriv28&theme=onedark&row=1&column=6&margin-w=15&margin-h=15&title=Commit,Issues,Stars,Followers,Repositories,PullRequest" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lesteriv28/lesteriv28/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lesteriv28&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lesteriv28&theme=radical" />
-</p>
 
 ---
 
