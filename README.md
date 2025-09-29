@@ -2,6 +2,12 @@
   <img src="./assets/readme_banner.svg" alt="Lester Banner" />
 </p>
 
+<h1 align="center">Nice to meet you, I’m Lester!</h1>
+<p align="center">
+  <strong>Computer Engineer | Embedded & Firmware | Frontend | QA | Leadership</strong>
+</p>
+<p align="center"><em>Now: building systems in C/C++ and shipping clean UIs; open to Embedded/Firmware & QA roles.</em></p>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -9,6 +15,7 @@
 - ⚡ Experienced in **C/C++**, firmware, embedded systems, and **frontend development**  
 - ✅ Former **QA Lead**, ensuring scalable, high-quality solutions  
 - 🥋 Trains in **MMA** | 💃 Professional dancer — disciplines that sharpen creativity, resilience, and focus  
+- 🌎 Leadership: **President of ALAS (2022–2024)** · **VP Admin of ESSS**
 
 <img src="./assets/section_divider_bottom.svg" alt="divider" />
 
@@ -34,19 +41,19 @@
 
 <p align="center">
   <a href="https://github.com/lesteriv28/simple-C">
-    <img src="./assets/project_card_simple_c.svg" alt="Simple C project card" />
+    <img src="./assets/project_card_simple_c.svg" width="720" alt="Simple C project card" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/lesteriv28/DSlibrary">
-    <img src="./assets/project_card_ds.svg" alt="DS Library project card" />
+    <img src="./assets/project_card_ds.svg" width="720" alt="DS Library project card" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/lesteriv28/lesteriv28.github.io">
-    <img src="./assets/project_card_school.svg" alt="School Website project card" />
+    <img src="./assets/project_card_school.svg" width="720" alt="School Website project card" />
   </a>
 </p>
 
@@ -55,17 +62,28 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesteriv28&layout=compact&title_color=DC143C&text_color=FFFFFF&bg_color=000000&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesteriv28&layout=compact&title_color=DC143C&text_color=FFFFFF&bg_color=000000&langs_count=6&hide=css,scss,html&exclude_repo=lesteriv28.github.io" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lesteriv28&theme=onedark&row=1&column=6&margin-w=15&margin-h=15&title=Commit,Issues,Stars,Followers,Repositories,PullRequest" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lesteriv28&theme=onedark&row=1&column=5&margin-w=12&margin-h=12&title=Commit,Issues,Stars,Repositories,PullRequest" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lesteriv28&theme=radical" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lesteriv28&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lesteriv28&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lesteriv28&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lesteriv28&show_icons=true&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF&bg_color=000000&hide_rank=true" />
+</p>
 
 ---
 
