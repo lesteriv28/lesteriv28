@@ -40,7 +40,7 @@
 ## 📂 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/lesteriv28/EnVision-Ease">
+  <a href="https://github.com/lesteriv28/EveTech">
     <img src="./assets/project_card_envision_ease.svg" width="720" alt="EnVision-Ease project card" />
   </a>
 </p>
